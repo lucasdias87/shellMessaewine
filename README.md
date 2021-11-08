@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/github/license/lucasdias87/shellMessaewine?style=for-the-badge)](https://github.com/lucasdias87/shellMessaewine/blob/master/LICENSE)
 ## Messa driver mais o wine script para jogar no linux
 ### script criado para facilitar a instalação de pacotes no Linux 
-contem o Drivers de video Mesa e o wine 
+contem o Driver de video Mesa e o wine 
 
 - Como executar o arquivo no Linux <br>
 
