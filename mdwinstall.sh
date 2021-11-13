@@ -13,7 +13,7 @@ echo
 # !===================================
 
 echo "Adicionando PPA e atualizando o sistema."
-sudo add-apt-repository ppa:kisak/kisak-mesa
+# sudo add-apt-repository ppa:kisak/kisak-mesa
 sudo apt update && sudo apt upgrade
 
 echo
@@ -30,7 +30,7 @@ echo "Instalando dependências!"
 sudo apt install mesa-vulkan-drivers mesa-vulkan-drivers:i386 libvulkan1 libvulkan1:i386
 sudo apt install libgl1-mesa-glx:i386 libgl1-mesa-dri:i386
 sudo apt update && sudo apt upgrade
-sudo apt install mesa-vulkan-drivers vulkan-utils libassimp5
+sudo apt install mesa-vulkan-drivers vulkan-tools libassimp5
 sudo apt update && sudo apt upgrade
 
 echo
