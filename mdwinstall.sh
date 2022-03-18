@@ -80,5 +80,5 @@ echo
 
 echo "Atualização finalizada com sucesso!"
 echo
-echo "Visite o nosso site http://sociedade-pinguim.rf.gd | a let tttttttttt"
+echo "Visite o nosso site https://linktr.ee/sociedadepinguim | a let tttttttttt"
 
